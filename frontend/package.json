@@ -34,7 +34,7 @@
     "isomorphic-fetch": "^2.2.1",
     "less": "^3.10.3",
     "locale-currency": "0.0.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.28",
     "node-quill-converter": "^0.3.3",
     "quill-emoji": "^0.1.7",
