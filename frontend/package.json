@@ -61,7 +61,7 @@
     "redux-logger": "^3.0.6",
     "redux-saga": "^1.1.1",
     "redux-starter-kit": "^1.0.1",
-    "rrule": "^2.6.4",
+    "rrule": "^2.7.1",
     "typescript": "^3.7.5",
     "use-email-autocomplete": "^1.0.7",
     "uuid": "^7.0.2"
